@@ -56,7 +56,7 @@ address:
   - line: Kec. Mojoroto, Kota Kediri, 64115
 
 # Credits content
-credits: 'Terus berusaha untuk menyajikan konten informatif, edukatif, dan inspiratif selama 24 jam yang dapat dinikmati melalui desktop, laptop, smartphone, ataupun perangkat lainnya.'
+credits: 'img:logo fixioner.png'
 
 # Build settings
 markdown: kramdown
