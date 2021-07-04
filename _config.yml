@@ -62,7 +62,6 @@ markdown: kramdown
 permalink: pretty
 plugins:
 - jekyll-feed
-- jekyll-seo-tag
 
 #for posts
 defaults:
