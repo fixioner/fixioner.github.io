@@ -1,5 +1,5 @@
 # Site settings
-title: Fixioner
+title: Fixioner Media Network
 email: redaksi@fixioner.com
 url: https://fixioner.github.io
 description: "Fixioner Media Network merupakan portal berita No.1 di Indonesia yang masih dalam masa pengembangan."
@@ -26,7 +26,7 @@ disqus_shortname: myshortname
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 2f4468 #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
+  primary-rgb: "47,68,104" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
@@ -40,23 +40,23 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: #
   - title: facebook
-    url:
+    url: #
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: #
   - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: #
   - title: github
-    url: http://github.com/jekyll
+    url: 
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Perumahan Wilis Indah 2
+  - line: Kec. Mojoroto, Kota Kediri, 64115
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Terus berusaha untuk menyajikan konten informatif, edukatif, dan inspiratif selama 24 jam yang dapat dinikmati melalui desktop, laptop, smartphone, ataupun perangkat lainnya.'
 
 # Build settings
 markdown: kramdown
